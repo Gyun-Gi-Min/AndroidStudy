@@ -1,0 +1,26 @@
+com/koreait/frist/BuildConfig.java
+ com.koreait.frist.BuildConfig
+com/koreait/frist/MyWriteActivity.java
+ com.koreait.frist.MyWriteActivity
+com/koreait/frist/WriteActivity.java
+ com.koreait.frist.MyOnClickListener
+ com.koreait.frist.SimpleTextAdapter
+ com.koreait.frist.SimpleTextAdapter$MyViewHolder
+ com.koreait.frist.WriteActivity
+ com.koreait.frist.WriteActivity$1
+ com.koreait.frist.WriteActivity$2
+com/koreait/frist/ch07/PersonAdapter.java
+ com.koreait.frist.ch07.PersonAdapter
+ com.koreait.frist.ch07.PersonAdapter$MyViewHolder
+com/koreait/frist/ch07/BookPersonActivity.java
+ com.koreait.frist.ch07.BookPersonActivity
+com/koreait/frist/LinearActivity.java
+ com.koreait.frist.LinearActivity
+com/koreait/frist/MainActivity.java
+ com.koreait.frist.MainActivity
+com/koreait/frist/ch07/Person.java
+ com.koreait.frist.ch07.Person
+com/koreait/frist/ConstraintActivity.java
+ com.koreait.frist.ConstraintActivity
+com/koreait/frist/MenuActivity.java
+ com.koreait.frist.MenuActivity
